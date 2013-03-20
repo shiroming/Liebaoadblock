@@ -1,0 +1,14 @@
+﻿![Liebao Adblock Rule]
+!Title:猎豹论坛规则
+!Author:S丶R啸
+!Updated:2013-03-20 17:00
+!Version:1.0
+!Description:猎豹论坛过滤规则
+!Url:file:///G:/liebao.txt
+!Copyright 2011-2013 Adfiltering-Rules Project, Apache License 2.0
+!-------------猎豹论坛规则-------------
+
+/:\/\/([^\/]+\.)?js\.users\.51\.la\/2256258\.js/
+!||discuz.gtimg.cn/cloud/scripts/discuz_tips.js?*
+##.a_pt	$d=bbs.liebao.cn
+##.a_pr $d=bbs.liebao.cn
