@@ -4,7 +4,7 @@
 !Updated:2013-03-20 17:00
 !Version:1.0
 !Description:猎豹论坛过滤规则
-!Url:file:///G:/liebao.txt
+!Url:https://github.com/shiroming/Liebaoadblock/blob/master/liebao.txt
 !Copyright 2011-2013 Adfiltering-Rules Project, Apache License 2.0
 !-------------猎豹论坛规则-------------
 
